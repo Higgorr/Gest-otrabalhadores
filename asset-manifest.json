@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gestaotrabalhadores/static/css/main.a5391076.css",
+    "main.js": "/Gestaotrabalhadores/static/js/main.5c0f9cd5.js",
+    "static/js/453.91b11fc2.chunk.js": "/Gestaotrabalhadores/static/js/453.91b11fc2.chunk.js",
+    "index.html": "/Gestaotrabalhadores/index.html",
+    "main.a5391076.css.map": "/Gestaotrabalhadores/static/css/main.a5391076.css.map",
+    "main.5c0f9cd5.js.map": "/Gestaotrabalhadores/static/js/main.5c0f9cd5.js.map",
+    "453.91b11fc2.chunk.js.map": "/Gestaotrabalhadores/static/js/453.91b11fc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5391076.css",
+    "static/js/main.5c0f9cd5.js"
+  ]
+}
